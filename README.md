@@ -10,12 +10,19 @@ Welcome to our mobile development showcase! This repository contains links to sa
 
 Here are our featured projects that demonstrate different capabilities and complexities across various domains.
 
+Here's the updated Android Projects section with your two apps:
+
 ### 🟢 Android Projects
 
 | Project Name | Description | Key Technologies | Play Store / Download |
 | :--- | :--- | :--- | :--- |
 | **[Sports Predictions](https://play.google.com/store/apps/details?id=app.alsports.predictions)** | Comprehensive sports betting predictions app covering 150+ soccer leagues with data-driven insights and daily tips. | Kotlin, MVVM, Room, Retrofit, Work Manager, AdMob | [View on Play Store](https://play.google.com/store/apps/details?id=app.alsports.predictions) |
 | **[QRito - QR Code Generator](https://play.google.com/store/apps/details?id=ai.datanous.qrito)** | Lightning-fast QR code generator with local library management, instant sharing, and full control over saved codes. | Kotlin, Jetpack Compose, Room, Material Design, Share Intent | [View on Play Store](https://play.google.com/store/apps/details?id=ai.datanous.qrito) |
+| **[UDC Connect](https://play.google.com/store/apps/details?id=app.udcconnect.android)** | Social entertainment platform where users can create posts, like, comment, and form groups for community engagement. | Kotlin, Firebase, Real-time Database, Cloud Storage, Social Auth | [View on Play Store](https://play.google.com/store/apps/details?id=app.udcconnect.android) |
+| **[Inshelvezw](https://play.google.com/store/apps/details?id=app.inshelvezw.android)** | Grocery delivery app revolutionizing shopping in Botswana with local store integration and real-time order tracking. | Kotlin, MVVM, Payment Integration, GPS Tracking, Real-time Updates | [View on Play Store](https://play.google.com/store/apps/details?id=app.inshelvezw.android) |
+| **[Answer Bazaar](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar)** | Q&A platform connecting users with experts across various domains for knowledge sharing and problem solving. | Kotlin, Real-time Chat, Push Notifications, User Profiles, Search | [View on Play Store](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar) |
+| **[Voice Notes](https://play.google.com/store/apps/details?id=com.jsk.voicenotes)** | Speech-to-text note taking app that converts voice to text with formatting options and multiple export formats. | Kotlin, Speech Recognition, Text-to-Speech, PDF Export, File Sharing | [View on Play Store](https://play.google.com/store/apps/details?id=com.jsk.voicenotes) |
+
 
 ### 🔵 iOS Projects
 
