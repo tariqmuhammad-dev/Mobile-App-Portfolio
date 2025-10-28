@@ -12,6 +12,8 @@ Here are our featured projects that demonstrate different capabilities and compl
 
 Here's the updated Android Projects section with your two apps:
 
+Here's the updated Android Projects section with your two new apps added:
+
 ### 🟢 Android Projects
 
 | Project Name | Description | Key Technologies | Play Store / Download |
@@ -22,6 +24,8 @@ Here's the updated Android Projects section with your two apps:
 | **[Inshelvezw](https://play.google.com/store/apps/details?id=app.inshelvezw.android)** | Grocery delivery app revolutionizing shopping in Botswana with local store integration and real-time order tracking. | Kotlin, MVVM, Payment Integration, GPS Tracking, Real-time Updates | [View on Play Store](https://play.google.com/store/apps/details?id=app.inshelvezw.android) |
 | **[Answer Bazaar](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar)** | Q&A platform connecting users with experts across various domains for knowledge sharing and problem solving. | Kotlin, Real-time Chat, Push Notifications, User Profiles, Search | [View on Play Store](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar) |
 | **[Voice Notes](https://play.google.com/store/apps/details?id=com.jsk.voicenotes)** | Speech-to-text note taking app that converts voice to text with formatting options and multiple export formats. | Kotlin, Speech Recognition, Text-to-Speech, PDF Export, File Sharing | [View on Play Store](https://play.google.com/store/apps/details?id=com.jsk.voicenotes) |
+| **[Soundscape](https://play.google.com/store/apps/details?id=com.music.focusflow)** | Meditation and focus app with curated sounds, bedtime stories, and timer tools for relaxation and productivity. | Kotlin, Media Player, Audio Mixing, Timer, Sleep Tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.music.focusflow) |
+| **[ShoPilipinas](https://play.google.com/store/apps/details?id=com.shopphdaji)** | Cross-border e-commerce platform connecting Filipino shoppers to Chinese suppliers (1688/Taobao) with full logistics support. | Kotlin, E-commerce, Payment Gateway, Order Tracking, Multi-vendor | [View on Play Store](https://play.google.com/store/apps/details?id=com.shopphdaji) |
 
 
 ### 🔵 iOS Projects
