@@ -74,6 +74,40 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Daily updates & push notifications
 - 150+ league coverage
 
+### 🧘‍♂️ Health & Wellness Apps
+**Soundscape - Meditation & Focus**
+**Key Features:**
+- Diverse sound library for meditation, sleep, and focus
+- Bedtime stories for enhanced sleep quality
+- Timer tool for controlled relaxation sessions
+- Immersive audio experience with sound mixing
+- Curated soundscapes for every mood and need
+
+### 🛒 E-Commerce & Marketplace Apps
+**Inshelvezw**
+**Key Features:**
+- Multi-store grocery shopping platform
+- Real-time order tracking and delivery updates
+- Secure payment processing with multiple options
+- Support for local businesses in Botswana
+- User-friendly shopping interface
+
+**ShoPilipinas - Cross-Border E-commerce**
+**Key Features:**
+- Direct access to 1688 and Taobao Chinese suppliers
+- Bulk sourcing and private labeling for businesses
+- Consolidated shipping and customs handling
+- Transparent pricing with cost breakdowns
+- Purchase protection and dispute resolution
+
+**Answer Bazaar**
+**Key Features:**
+- Q&A platform connecting users with experts
+- Real-time chat functionality
+- User rating and review system
+- Category-based question organization
+- Push notifications for responses
+
 ### 🔗 Utility & Productivity Apps
 **QRito - QR Code Generator**
 **Key Features:**
@@ -107,24 +141,6 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Form and manage interest-based groups
 - Real-time social interactions
 - User profile management
-
-### 🛒 E-Commerce & Marketplace Apps
-**Inshelvezw**
-**Key Features:**
-- Multi-store grocery shopping platform
-- Real-time order tracking and delivery updates
-- Secure payment processing with multiple options
-- Support for local businesses in Botswana
-- User-friendly shopping interface
-
-**Answer Bazaar**
-**Key Features:**
-- Q&A platform connecting users with experts
-- Real-time chat functionality
-- User rating and review system
-- Category-based question organization
-- Push notifications for responses
-
 
 ---
 
