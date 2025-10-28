@@ -57,9 +57,12 @@ We are proficient in a wide range of modern mobile technologies:
 
 ---
 
-## 📱 App Demos & Screenshots
+Here's the updated App Categories & Specializations section with all your apps:
 
-### Sports Predictions App
+## 📱 App Categories & Specializations
+
+### 🎯 Sports & Analytics Apps
+**Sports Predictions App**
 **Key Features:**
 - Multi-sport coverage (Football, Basketball, Tennis, Hockey)
 - Advanced prediction types (1x2, Over/Under, BTTS, Corners)
@@ -67,7 +70,8 @@ We are proficient in a wide range of modern mobile technologies:
 - Daily updates & push notifications
 - 150+ league coverage
 
-### QRito - QR Code Generator
+### 🔗 Utility & Productivity Apps
+**QRito - QR Code Generator**
 **Key Features:**
 - Instant QR code generation from URLs
 - Local library with search and organization
@@ -75,7 +79,15 @@ We are proficient in a wide range of modern mobile technologies:
 - Clean, material design interface
 - No internet required for generation
 
-### Voice Notes Recorder (iOS)
+**Voice Notes (Android)**
+**Key Features:**
+- Speech-to-text conversion for easy note taking
+- Save notes in multiple formats (PDF, text)
+- Customizable text formatting and styling
+- Share notes across different applications
+- Draft saving functionality
+
+**Voice Notes Recorder (iOS)**
 **Key Features:**
 - High-quality audio recording
 - Intuitive organization and management
@@ -83,30 +95,32 @@ We are proficient in a wide range of modern mobile technologies:
 - Professional-grade performance
 - User-friendly iOS-native interface
 
-<details>
-<summary><b>Click to expand app screenshot gallery</b></summary>
-<br>
+### 👥 Social & Community Platforms
+**UDC Connect**
+**Key Features:**
+- Create and share posts with media content
+- Like and comment on community posts
+- Form and manage interest-based groups
+- Real-time social interactions
+- User profile management
 
-**Sports Predictions App**
-<p>
-  <!-- Add your actual screenshot paths here -->
-  <img src="screenshots/sports_app_1.jpg" width="200" alt="Sports App Main Screen">
-  <img src="screenshots/sports_app_2.jpg" width="200" alt="Sports App Predictions">
-</p>
+### 🛒 E-Commerce & Marketplace Apps
+**Inshelvezw**
+**Key Features:**
+- Multi-store grocery shopping platform
+- Real-time order tracking and delivery updates
+- Secure payment processing with multiple options
+- Support for local businesses in Botswana
+- User-friendly shopping interface
 
-**QRito QR Code Generator**
-<p>
-  <img src="screenshots/qrito_1.jpg" width="200" alt="QRito Generator Screen">
-  <img src="screenshots/qrito_2.jpg" width="200" alt="QRito Library">
-</p>
+**Answer Bazaar**
+**Key Features:**
+- Q&A platform connecting users with experts
+- Real-time chat functionality
+- User rating and review system
+- Category-based question organization
+- Push notifications for responses
 
-**Voice Notes Recorder**
-<p>
-  <img src="screenshots/voice_notes_1.png" width="200" alt="Voice Recorder Main Screen">
-  <img src="screenshots/voice_notes_2.png" width="200" alt="Voice Notes List">
-</p>
-
-</details>
 
 ---
 
