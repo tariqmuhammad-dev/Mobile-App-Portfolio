@@ -168,5 +168,5 @@ This repository showcases production-ready applications available on official ap
 
 ---
 
-*Last Updated: December 2024*  
-*© 2024 Mobile App Developer Portfolio. All rights reserved.*
+*Last Updated: October 2025*  
+*© 2025 Mobile App Developer Portfolio. All rights reserved.*
