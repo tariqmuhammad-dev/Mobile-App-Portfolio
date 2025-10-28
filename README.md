@@ -25,7 +25,10 @@ Here's the updated Android Projects section with your two new apps added:
 | **[Answer Bazaar](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar)** | Q&A platform connecting users with experts across various domains for knowledge sharing and problem solving. | Kotlin, Real-time Chat, Push Notifications, User Profiles, Search | [View on Play Store](https://play.google.com/store/apps/details?id=com.abpl.Answerbazaar) |
 | **[Voice Notes](https://play.google.com/store/apps/details?id=com.jsk.voicenotes)** | Speech-to-text note taking app that converts voice to text with formatting options and multiple export formats. | Kotlin, Speech Recognition, Text-to-Speech, PDF Export, File Sharing | [View on Play Store](https://play.google.com/store/apps/details?id=com.jsk.voicenotes) |
 | **[Soundscape](https://play.google.com/store/apps/details?id=com.music.focusflow)** | Meditation and focus app with curated sounds, bedtime stories, and timer tools for relaxation and productivity. | Kotlin, Media Player, Audio Mixing, Timer, Sleep Tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.music.focusflow) |
-| **[ShoPilipinas](https://play.google.com/store/apps/details?id=com.shopphdaji)** | Cross-border e-commerce platform connecting Filipino shoppers to Chinese suppliers (1688/Taobao) with full logistics support. | Kotlin, E-commerce, Payment Gateway, Order Tracking, Multi-vendor | [View on Play Store](https://play.google.com/store/apps/details?id=com.shopphdaji) |
+| **[ShoPilipinas](https://play.google.com/store/apps/details?id=com.shopphdaji)** | Cross-border e-commerce platform connecting Filipino shoppers to Chinese suppliers (1688/Taobao) with full logistics support. | Kotlin, E-commerce, Payment Gateway, Order Tracking, Multi-vendor | [View on Play Store](https://play.google.com/store/apps/details?id=com.shopphdaji) | | **[CH Marine B2B](https://play.google.com/store/apps/details?id=com.chmarineb2b.chmarineb2b)** | B2B marine equipment marketplace with 40,000+ SKUs of yacht chandlery, safety gear, and watersports equipment. | Kotlin, B2B E-commerce, Inventory Management, Order Tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.chmarineb2b.chmarineb2b) |
+| **[Ingredients Online Buyer](https://play.google.com/store/apps/details?id=com.ingredientsonline.io_flutter_app)** | B2B ingredients marketplace for bulk sourcing of premium raw materials across food, beverage, and cosmetics industries. | Flutter, B2B Marketplace, Bulk Ordering, Supplier Management | [View on Play Store](https://play.google.com/store/apps/details?id=com.ingredientsonline.io_flutter_app) |
+| **[IO Seller App](https://play.google.com/store/apps/details?id=com.ingredientsonline.seller_app)** | Seller management platform for Ingredients Online marketplace with bid management and catalog control. | Flutter, Seller Dashboard, Bid Management, Catalog Management | [View on Play Store](https://play.google.com/store/apps/details?id=com.ingredientsonline.seller_app) |
+| **[IO Summit 2025](https://play.google.com/store/apps/details?id=com.swapcard.apps.android.iosummit)** | Event app for ingredients industry summit with AI-matched networking and session management. | Flutter, Event Management, AI Matching, Networking | [View on Play Store](https://play.google.com/store/apps/details?id=com.swapcard.apps.android.iosummit) |
 
 
 ### 🔵 iOS Projects
@@ -65,6 +68,74 @@ Here's the updated App Categories & Specializations section with all your apps:
 
 ## 📱 App Categories & Specializations
 
+### 🏪 B2B E-Commerce & Marketplace Apps
+**CH Marine B2B - Marine Equipment**
+**Key Features:**
+- 40,000+ SKU marine equipment catalog
+- B2B-focused shopping experience
+- Real-time stock availability
+- Order tracking and history
+- Push notifications for new products
+
+**Ingredients Online Buyer App**
+**Key Features:**
+- Global B2B ingredients marketplace
+- Bulk and wholesale ordering
+- Premium raw material sourcing
+- Multi-industry support (food, beverage, cosmetics)
+- Streamlined procurement process
+
+**IO Seller App - Marketplace Management**
+**Key Features:**
+- Seller dashboard and catalog management
+- High Volume Bid system with counteroffers
+- Payment request processing
+- Document library management
+- Real-time notification system
+
+**IO Summit 2025 - Event Platform**
+**Key Features:**
+- AI-matched networking introductions
+- Event session management
+- Exhibitor and buyer connections
+- Multi-industry summit coverage
+- Professional networking tools
+
+### 🌐 Cross-Border E-Commerce
+**ShoPilipinas - International Trade**
+**Key Features:**
+- Direct China (1688/Taobao) supplier access
+- Bulk sourcing and private labeling
+- Consolidated international shipping
+- Customs documentation handling
+- Purchase protection and dispute resolution
+
+### 🛒 Domestic E-Commerce & Delivery
+**Inshelvezw - Grocery Delivery**
+**Key Features:**
+- Multi-store grocery shopping platform
+- Real-time order tracking and delivery updates
+- Secure payment processing with multiple options
+- Support for local businesses in Botswana
+- User-friendly shopping interface
+
+### 💬 Social & Q&A Platforms
+**Answer Bazaar**
+**Key Features:**
+- Q&A platform connecting users with experts
+- Real-time chat functionality
+- User rating and review system
+- Category-based question organization
+- Push notifications for responses
+
+**UDC Connect**
+**Key Features:**
+- Create and share posts with media content
+- Like and comment on community posts
+- Form and manage interest-based groups
+- Real-time social interactions
+- User profile management
+
 ### 🎯 Sports & Analytics Apps
 **Sports Predictions App**
 **Key Features:**
@@ -82,31 +153,6 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Timer tool for controlled relaxation sessions
 - Immersive audio experience with sound mixing
 - Curated soundscapes for every mood and need
-
-### 🛒 E-Commerce & Marketplace Apps
-**Inshelvezw**
-**Key Features:**
-- Multi-store grocery shopping platform
-- Real-time order tracking and delivery updates
-- Secure payment processing with multiple options
-- Support for local businesses in Botswana
-- User-friendly shopping interface
-
-**ShoPilipinas - Cross-Border E-commerce**
-**Key Features:**
-- Direct access to 1688 and Taobao Chinese suppliers
-- Bulk sourcing and private labeling for businesses
-- Consolidated shipping and customs handling
-- Transparent pricing with cost breakdowns
-- Purchase protection and dispute resolution
-
-**Answer Bazaar**
-**Key Features:**
-- Q&A platform connecting users with experts
-- Real-time chat functionality
-- User rating and review system
-- Category-based question organization
-- Push notifications for responses
 
 ### 🔗 Utility & Productivity Apps
 **QRito - QR Code Generator**
@@ -132,15 +178,6 @@ Here's the updated App Categories & Specializations section with all your apps:
 - Seamless sharing across platforms
 - Professional-grade performance
 - User-friendly iOS-native interface
-
-### 👥 Social & Community Platforms
-**UDC Connect**
-**Key Features:**
-- Create and share posts with media content
-- Like and comment on community posts
-- Form and manage interest-based groups
-- Real-time social interactions
-- User profile management
 
 ---
 
